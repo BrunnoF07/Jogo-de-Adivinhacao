@@ -26,3 +26,14 @@ Aplicação de princípios como SRP, OCP, LSP, ISP e DIP. ---
 2. Execute o arquivo: 
 ```bash 
 python jogo.py 
+�� Estrutura 
+None 
+jogo.py 
+README.md 
+�� Melhorias futuras ou Melhorias implementadas 
+● Sistema de pontuação 
+● Ranking de jogadores 
+● Interface gráfica 
+● Níveis de dificuldade 
+‍ Autor 
+Seu Nome Aqui 
