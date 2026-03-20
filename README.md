@@ -76,5 +76,3 @@ README.md
 **Brunno Machado dos Santos**
 
 ---
-
-Se quiser, posso deixar ainda mais profissional (tipo padrão GitHub com badges, prints ou GIF do jogo funcionando).
