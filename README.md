@@ -1,7 +1,3 @@
-Aqui está uma versão mais organizada, elegante e profissional do seu texto:
-
----
-
 # 🎯 Jogo de Adivinhação em Python
 
 Projeto simples desenvolvido em **Python**, utilizando conceitos de **Programação Orientada a Objetos (POO)** e aplicando os princípios **SOLID**.
