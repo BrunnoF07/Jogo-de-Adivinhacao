@@ -62,7 +62,7 @@ README.md
 
 ---
 
-## 🚀 Melhorias futuras
+## 🚀 Melhorias futuras ou ja implementadas
 
 * Sistema de pontuação
 * Ranking de jogadores
